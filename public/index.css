@@ -20,13 +20,28 @@ body{
     color: rgb(222, 65, 91);
 }
 
-.hero{
-    background-color: blue;
+.hero-img{
+    float:left;
+    padding: 25px 50px;
+    border-radius: 10%;
 }
 
-.hero-img{
-    width: 30rem;
-    height: 15rem;
-    
-    float: left;
+.hero-content{
+    padding-top: 100px;
+    padding-right: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    color: rgb(222, 65, 91);;
 }
+ 
+.para{
+    padding-top: 30px;
+    color: rgb(26, 23, 23);
+    font-family: 'Signika Negative', sans-serif;;
+    font-weight: 700;
+
+}
+
+
+
+  
