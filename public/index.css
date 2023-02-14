@@ -1,0 +1,32 @@
+
+body{
+    margin: 0px;
+}
+
+.nav-bar{
+    background-color: whitesmoke;
+    display: flex;
+}
+
+.logo{
+    height: 3rem;
+    padding-top: 10px;
+
+}
+
+.logo-name{
+    padding-left: 3px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(222, 65, 91);
+}
+
+.hero{
+    background-color: blue;
+}
+
+.hero-img{
+    width: 30rem;
+    height: 15rem;
+    
+    float: left;
+}
