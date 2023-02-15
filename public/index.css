@@ -26,6 +26,7 @@ body{
     border-radius: 10%;
 }
 
+
 .hero-content{
     padding-top: 100px;
     padding-right: 30px;
@@ -36,12 +37,64 @@ body{
  
 .para{
     padding-top: 30px;
+    padding-bottom: 200px;
     color: rgb(26, 23, 23);
     font-family: 'Signika Negative', sans-serif;;
     font-weight: 700;
-
 }
 
 
+.cardd{
+    float: left;
+}
 
-  
+.card-header{
+    padding-left: 2rem;
+    padding-bottom: 2.3rem ;
+}
+
+/* .card-container{
+    background-color: violet;
+} */
+
+.card-header{
+    font-family: 'Cinzel', serif;
+    font-size:xx-large;
+    color: #4d2a2a;
+}
+
+
+.card-img{
+    width: 12rem;
+    height: 15rem;
+    border-radius: 18%;
+    margin: 0 1.675rem;
+}
+
+.card-img:hover{
+    border-radius: 5%;
+    transition: 90ms;
+}
+
+.card-content{
+    margin-top: 0;
+    margin-left: 1.875rem;
+}
+
+.rating{
+    font-family: 'Vollkorn', serif;
+}
+
+.info{
+    font-weight: 500;
+}
+.price{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 1.675rem;
+}
+
+.pricee{
+    color: rgb(222, 65, 91);
+}
+
+
