@@ -63,6 +63,17 @@ body{
     color: #4d2a2a;
 }
 
+.card-badge{
+    position: relative;
+    top: 30px;
+    left: 190px;
+    color: rgb(255, 4, 4);
+    opacity: 60%;
+}
+
+.card-badge:hover{
+    cursor: pointer;
+}
 
 .card-img{
     width: 12rem;
@@ -70,6 +81,7 @@ body{
     border-radius: 18%;
     margin: 0 1.675rem;
 }
+
 
 .card-img:hover{
     border-radius: 5%;
