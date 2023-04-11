@@ -8,6 +8,7 @@ function Hero(){
         <p className="hero-content para"> Experience unique experiences led by <b>airbnb</b> hosts now and travel the world with bundles of joy and packages available according to your customizations</p>
     </div>
     )
+    
 }
 
 export default Hero;
