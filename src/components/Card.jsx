@@ -13,7 +13,6 @@ function Card(props){
             <p className="card-content info">{props.info}</p>
             <p className="card-conten price"><b className="pricee">{props.pricing} </b>/ <em>per person</em></p>
         
-        
         </div>
         </div>
     )
